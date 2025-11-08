@@ -4,7 +4,7 @@ A simple and elegant Recipe Page built using HTML and CSS. This project showcase
 
 🧁 **Features**
 
-* Responsive design that works on desktop and mobile devices
+* Best view- desktop
 
 * Clean and modern UI
 
