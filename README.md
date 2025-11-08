@@ -1,8 +1,8 @@
-🍽️ Recipe Page
+🍽️ **Recipe Page**
 
 A simple and elegant Recipe Page built using HTML and CSS. This project showcases a clean layout for displaying recipes, including ingredients, preparation steps, and images.
 
-🧁 Features
+🧁 **Features**
 
 * Responsive design that works on desktop and mobile devices
 
@@ -14,13 +14,13 @@ A simple and elegant Recipe Page built using HTML and CSS. This project showcase
 
 * Simple, semantic HTML structure
 
-🧱 Tech Stack
+🧱 **Tech Stack**
 
 * HTML5 — for structure and content
 
 * CSS3 — for styling and layout
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 1- Clone this repository: 
    ```bash
